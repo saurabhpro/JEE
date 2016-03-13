@@ -11,17 +11,18 @@ import java.io.IOException;
 
 /**
  * Created by Saurabh on 3/13/2016.
+ * downloads at default location of your browser
  */
 @WebServlet(name = "ImageDownloadServlet", urlPatterns = {"/img"})
 public class ImageDownloadServlet extends HttpServlet {
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        String fName = "image2.jpeg";
+        String fName = "image.jpeg";
         ServletOutputStream stream = null;
         BufferedInputStream buff = null;
 
         stream = response.getOutputStream();
-        String s1 = getServletContext().getRealPath("/files/image.jpeg");
+        String s1 = getServletContext().getRealPath("/files/image.jpg");
         File doc = new File(s1);
 
         response.setContentType("image/jpeg");

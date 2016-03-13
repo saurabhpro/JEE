@@ -11,6 +11,7 @@ import java.io.IOException;
 
 /**
  * Created by Saurabh on 3/13/2016.
+ * * downloads at default location of your browser
  */
 @WebServlet(name = "WordDownloadServlet", urlPatterns = {"/word"})
 public class WordDownloadServlet extends HttpServlet {

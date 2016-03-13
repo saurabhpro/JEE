@@ -11,6 +11,7 @@ import java.io.IOException;
 
 /**
  * Created by Saurabh on 3/13/2016.
+ * * downloads at default location of your browser
  */
 @WebServlet(name = "PDFDownloadServlet", urlPatterns = {"/pdf"})
 public class PDFDownloadServlet extends HttpServlet {
@@ -19,7 +20,7 @@ public class PDFDownloadServlet extends HttpServlet {
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        String fName = "pdfFile2.pdf";
+        String fName = "pdfFile.pdf";
         ServletOutputStream stream = null;
         BufferedInputStream buff = null;
 

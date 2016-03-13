@@ -11,12 +11,13 @@ import java.io.IOException;
 
 /**
  * Created by Saurabh on 3/13/2016.
+ * * downloads at default location of your browser
  */
 @WebServlet(name = "MP3DownloadServlet", urlPatterns = {"/mp3"})
 public class MP3DownloadServlet extends HttpServlet {
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        String fName = "Gurbani2.mp3";
+        String fName = "Gurbani.mp3";
         ServletOutputStream stream = null;
         BufferedInputStream buff = null;
 
