@@ -10,7 +10,7 @@ import java.io.PrintWriter;
  * Created by Saurabh on 3/13/2016.
  * * downloads at default location of your browser
  */
-@WebServlet(name = "ExcelCreateDownloadServlet",urlPatterns = {"/excel"})
+@WebServlet(name = "ExcelCreateDownloadServlet", urlPatterns = {"/excel"})
 public class ExcelCreateDownloadServlet extends HttpServlet {
 
     protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

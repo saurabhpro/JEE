@@ -2,11 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdd5f111-80eb-4c9b-a01d-6e743ab40416" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RealPathServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RefreshServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UploadDownload/lib/cos.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UploadDownload/.idea/libraries/cos.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UploadDownload/src/FileInputStreamServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UploadDownload/src/MultiPartFileUploadServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UploadDownload/src/ShowImageServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UploadDownload/src/StoreImageServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UploadDownload/src/UploadViaAnnotationServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UploadDownload/web/UploadByAnnotation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UploadDownload/web/image.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/UploadDownload_war_exploded/WEB-INF/classes/ExcelCreateDownloadServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/UploadDownload_war_exploded/WEB-INF/classes/ImageDownloadServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/UploadDownload_war_exploded/WEB-INF/classes/MP3DownloadServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/UploadDownload_war_exploded/WEB-INF/classes/PDFDownloadServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/UploadDownload_war_exploded/WEB-INF/classes/WordDownloadServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/UploadDownload_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/UploadDownload_war_exploded/files/Gurbani.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/UploadDownload_war_exploded/files/image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/UploadDownload_war_exploded/files/pdfFile.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/UploadDownload_war_exploded/files/wordFile.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/UploadDownload_war_exploded/index.jsp" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UploadDownload/.idea/artifacts/UploadDownload_war_exploded.xml" afterPath="$PROJECT_DIR$/../UploadDownload/.idea/artifacts/UploadDownload_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UploadDownload/.idea/misc.xml" afterPath="$PROJECT_DIR$/../UploadDownload/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UploadDownload/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../UploadDownload/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UploadDownload/UploadDownload.iml" afterPath="$PROJECT_DIR$/../UploadDownload/UploadDownload.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UploadDownload/src/ExcelCreateDownloadServlet.java" afterPath="$PROJECT_DIR$/../UploadDownload/src/ExcelCreateDownloadServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UploadDownload/web/index.jsp" afterPath="$PROJECT_DIR$/../UploadDownload/web/index.jsp" />
     </list>
     <ignored path="Servlets.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,12 +89,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RealPathServlet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RealPathServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RealPathServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5321101">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RequestDispatchServlet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RequestDispatchServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17495711">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <marker date="1457866818641" expanded="true" signature="1123:1201" placeholder="select * fro... ducat" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SendRedirectServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SendRedirectServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="47" selection-start-line="19" selection-start-column="6" selection-end-line="32" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1457873056680" expanded="true" signature="1320:1391" placeholder="INSERT INTO ducat... " />
+                <marker date="1457873056680" expanded="true" signature="1419:1456" placeholder="select * fro... emp" />
+                <marker date="1457873056680" expanded="true" signature="1419:1484" placeholder="select * fro... emp" />
+                <marker date="1457873056680" expanded="true" signature="1419:1497" placeholder="select * fro... emp" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -161,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -194,10 +245,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServletCollaboration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Servlets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -806,11 +870,13 @@
       <updated>1457849885753</updated>
       <workItem from="1457849898247" duration="12287000" />
       <workItem from="1457876488047" duration="1188000" />
+      <workItem from="1457879477079" duration="606000" />
+      <workItem from="1457881795171" duration="1318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13475000" />
+    <option name="totallyTimeSpent" value="15399000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -834,11 +900,11 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41898528" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41734862" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24432677" sideWeight="0.48450705" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24432677" sideWeight="0.515493" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24404761" sideWeight="0.515493" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19288956" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -874,6 +940,64 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SimpleFormServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding>
+            <marker date="1456701390294" expanded="true" signature="2062:2143" placeholder="CREATE TABLE... EmpService" />
+            <marker date="1456701390294" expanded="true" signature="2177:2224" placeholder="INSERT INTO EmpService... " />
+            <marker date="1456701390294" expanded="true" signature="2266:2330" placeholder="INSERT INTO EmpService... " />
+            <marker date="1456701390294" expanded="true" signature="2379:2403" placeholder="SELECT * FRO... EmpService" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RefreshServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RealPathServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleFormServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding>
+            <marker date="1456701390294" expanded="true" signature="2062:2143" placeholder="CREATE TABLE... EmpService" />
+            <marker date="1456701390294" expanded="true" signature="2177:2224" placeholder="INSERT INTO EmpService... " />
+            <marker date="1456701390294" expanded="true" signature="2266:2330" placeholder="INSERT INTO EmpService... " />
+            <marker date="1456701390294" expanded="true" signature="2379:2403" placeholder="SELECT * FRO... EmpService" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RefreshServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RealPathServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SimpleFormServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -938,30 +1062,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="69" selection-start-line="0" selection-start-column="69" selection-end-line="0" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RequestDispatchServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.10806175">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <marker date="1457866818641" expanded="true" signature="1123:1201" placeholder="select * fro... ducat" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SendRedirectServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.21621622">
-          <caret line="13" column="92" selection-start-line="13" selection-start-column="92" selection-end-line="13" selection-end-column="92" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1457873056680" expanded="true" signature="1320:1391" placeholder="INSERT INTO ducat... " />
-            <marker date="1457873056680" expanded="true" signature="1419:1456" placeholder="select * fro... emp" />
-            <marker date="1457873056680" expanded="true" signature="1419:1484" placeholder="select * fro... emp" />
-            <marker date="1457873056680" expanded="true" signature="1419:1497" placeholder="select * fro... emp" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1070,9 +1170,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RealPathServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5321101">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SendRedirectServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="47" selection-start-line="19" selection-start-column="6" selection-end-line="32" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1457873056680" expanded="true" signature="1320:1391" placeholder="INSERT INTO ducat... " />
+            <marker date="1457873056680" expanded="true" signature="1419:1456" placeholder="select * fro... emp" />
+            <marker date="1457873056680" expanded="true" signature="1419:1484" placeholder="select * fro... emp" />
+            <marker date="1457873056680" expanded="true" signature="1419:1497" placeholder="select * fro... emp" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RequestDispatchServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17495711">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <marker date="1457866818641" expanded="true" signature="1123:1201" placeholder="select * fro... ducat" />
+          </folding>
         </state>
       </provider>
     </entry>
