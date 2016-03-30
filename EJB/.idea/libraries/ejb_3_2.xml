@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="ejb-3.2" type="EJB">
+    <properties version="3.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.ejb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
