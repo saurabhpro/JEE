@@ -10,4 +10,6 @@ import java.rmi.RemoteException;
 public interface IRemoteUtility extends Remote {
     // Adds two integers and returns the result to the client
     int add(int n1, int n2) throws RemoteException;
+
+    //
 }
