@@ -57,7 +57,7 @@
     <h3>Cookies</h3>
     <p>
 
-        cookies and special object which are used to store client related information on a client's machine.
+        cookies are special object which are used to store client related information on a client's machine.
         they will be attached automatically to the URL through which they are written in a browser.
 
         HttpSession session = request.getSession();

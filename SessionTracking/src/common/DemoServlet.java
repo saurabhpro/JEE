@@ -1,3 +1,5 @@
+package common;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -10,7 +12,7 @@ import java.io.PrintWriter;
 /**
  * Created by Saurabh on 4/3/2016.
  */
-@WebServlet(name = "DemoServlet", urlPatterns = {"/demo"})
+@WebServlet(name = "common.DemoServlet", urlPatterns = {"/demo"})
 public class DemoServlet extends HttpServlet {
     @Override
     public void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
