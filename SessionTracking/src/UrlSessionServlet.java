@@ -30,7 +30,7 @@ public class UrlSessionServlet extends HttpServlet {
 
             out.println(url);
             out.println("<a href=" + url + ">demo</a>");
-        } catch (Exception e) {
+        } catch (Exception ignored) {
         }
     }
 

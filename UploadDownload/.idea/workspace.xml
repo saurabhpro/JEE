@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a92ed518-a4ca-4601-8f43-85a7430d1fd2" name="Default" comment="Image store not working!&#10;TODO overwriting exisiting named file">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SessionTracking/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SessionTracking/src/HiddenFormFeildServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servlets/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Servlets/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SessionTracking/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SessionTracking/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SessionTracking/src/UrlSessionServlet.java" afterPath="$PROJECT_DIR$/../SessionTracking/src/UrlSessionServlet.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UploadDownload.iws" />
@@ -826,7 +827,7 @@
     <option name="totallyTimeSpent" value="22276000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
