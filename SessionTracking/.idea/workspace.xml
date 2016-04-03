@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be762818-6e7d-432d-a070-02e92b5cfbf9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ServletListners/.idea/artifacts/ServletListners_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ServletListners/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ServletListners/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ServletListners/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ServletListners/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ServletListners/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ServletListners/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ServletListners/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ServletListners/ServletListners.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ServletListners/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SessionTracking_Web_exploded/WEB-INF/classes/UrlSessionServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SessionTracking/UrlSessionServlet.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/UrlSessionServlet.java" afterPath="$PROJECT_DIR$/src/UrlRewriteServlet.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SessionTracking_Web_exploded/WEB-INF/classes/CookieSessionServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/SessionTracking_Web_exploded/WEB-INF/classes/CookieSessionServlet.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SessionTracking_Web_exploded/WEB-INF/classes/DemoServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/SessionTracking_Web_exploded/WEB-INF/classes/DemoServlet.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SessionTracking_Web_exploded/WEB-INF/classes/HiddenFormFeildServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/SessionTracking_Web_exploded/WEB-INF/classes/HiddenFormFeildServlet.class" />
@@ -24,13 +10,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SessionTracking/DemoServlet.class" afterPath="$PROJECT_DIR$/out/production/SessionTracking/DemoServlet.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SessionTracking/HiddenFormFeildServlet.class" afterPath="$PROJECT_DIR$/out/production/SessionTracking/HiddenFormFeildServlet.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SessionTracking/LogoutServlet.class" afterPath="$PROJECT_DIR$/out/production/SessionTracking/LogoutServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servlets/.idea/sqldialects.xml" afterPath="$PROJECT_DIR$/../Servlets/.idea/sqldialects.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servlets/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Servlets/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SessionTracking_Web_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/SessionTracking_Web_exploded/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UploadDownload/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../UploadDownload/.idea/workspace.xml" />
     </list>
     <ignored path="SessionTracking.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,7 +44,7 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
+            <state relative-caret-position="185">
               <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
               <folding />
             </state>
@@ -830,7 +811,7 @@
       <option name="presentableId" value="Default" />
       <updated>1459628955539</updated>
       <workItem from="1459628958480" duration="4321000" />
-      <workItem from="1459665528871" duration="460000" />
+      <workItem from="1459665528871" duration="577000" />
     </task>
     <task id="LOCAL-00001" summary="Session Traacking with cookies&#10;Urlrewriting&#10;hidden form feild">
       <created>1459629290060</created>
@@ -846,11 +827,18 @@
       <option name="project" value="LOCAL" />
       <updated>1459658738250</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added theory">
+      <created>1459666023317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1459666023317</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4781000" />
+    <option name="totallyTimeSpent" value="4898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -892,7 +880,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Session Traacking with cookies&#10;Urlrewriting&#10;hidden form feild" />
     <MESSAGE value="Added ojdbc7.jar&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added ojdbc7.jar&#10;" />
+    <MESSAGE value="added theory" />
+    <option name="LAST_COMMIT_MESSAGE" value="added theory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1005,7 +994,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
+        <state relative-caret-position="185">
           <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
           <folding />
         </state>
