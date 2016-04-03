@@ -10,8 +10,8 @@ import java.io.PrintWriter;
 /**
  * Created by Saurabh on 4/3/2016.
  */
-@WebServlet(name = "UrlSessionServlet", urlPatterns = {"/urls"})
-public class UrlSessionServlet extends HttpServlet {
+@WebServlet(name = "UrlRewriteServlet", urlPatterns = {"/urls"})
+public class UrlRewriteServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.setContentType("text/html");

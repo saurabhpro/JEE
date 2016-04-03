@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a92ed518-a4ca-4601-8f43-85a7430d1fd2" name="Default" comment="Image store not working!&#10;TODO overwriting exisiting named file">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servlets/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Servlets/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SessionTracking/.idea/misc.xml" afterPath="$PROJECT_DIR$/../SessionTracking/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SessionTracking/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SessionTracking/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SessionTracking/src/UrlSessionServlet.java" afterPath="$PROJECT_DIR$/../SessionTracking/src/UrlSessionServlet.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UploadDownload.iws" />

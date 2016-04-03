@@ -3,5 +3,6 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/src/RequestDispatchServlet.java" dialect="OracleSqlPlus" />
     <file url="file://$PROJECT_DIR$/src/SendRedirectServlet.java" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/src/SimpleFormServlet.java" dialect="OracleSqlPlus" />
   </component>
 </project>
