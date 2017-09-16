@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EJB/EJB.iml" filepath="$PROJECT_DIR$/EJB/EJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JEE.iml" filepath="$PROJECT_DIR$/.idea/JEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JMS/JMS.iml" filepath="$PROJECT_DIR$/JMS/JMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M101JMongoDBForJavaDevlopers/M101JMongoDBForJavaDevlopersmaster.iml" filepath="$PROJECT_DIR$/M101JMongoDBForJavaDevlopers/M101JMongoDBForJavaDevlopersmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewWeb/NewWeb.iml" filepath="$PROJECT_DIR$/NewWeb/NewWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServletListners/ServletListners.iml" filepath="$PROJECT_DIR$/ServletListners/ServletListners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets/Servlets.iml" filepath="$PROJECT_DIR$/Servlets/Servlets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SessionTracking/SessionTracking.iml" filepath="$PROJECT_DIR$/SessionTracking/SessionTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UploadDownload/UploadDownload.iml" filepath="$PROJECT_DIR$/UploadDownload/UploadDownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M101JMongoDBForJavaDevlopers/Week1/Week 1.iml" filepath="$PROJECT_DIR$/M101JMongoDBForJavaDevlopers/Week1/Week 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M101JMongoDBForJavaDevlopers/Week2/Week 2.iml" filepath="$PROJECT_DIR$/M101JMongoDBForJavaDevlopers/Week2/Week 2.iml" />
+    </modules>
+  </component>
+</project>

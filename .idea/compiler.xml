@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EJB" />
+        <module name="JMS" />
+        <module name="NewWeb" />
+        <module name="RMI" />
+        <module name="ServletListners" />
+        <module name="Servlets" />
+        <module name="SessionTracking" />
+        <module name="UploadDownload" />
+        <module name="Week 1" />
+        <module name="Week 2" />
+        <module name="Week1" />
+        <module name="Week2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="EJB" target="1.8" />
+      <module name="JEE" target="1.8" />
+      <module name="JMS" target="1.8" />
+      <module name="M101JMongoDBForJavaDevlopers" target="1.8" />
+      <module name="M101JMongoDBForJavaDevlopersmaster" target="1.8" />
+      <module name="NewWeb" target="1.8" />
+      <module name="RMI" target="1.8" />
+      <module name="ServletListners" target="1.8" />
+      <module name="Servlets" target="1.8" />
+      <module name="SessionTracking" target="1.8" />
+      <module name="UploadDownload" target="1.8" />
+      <module name="Week 1" target="1.8" />
+      <module name="Week 2" target="1.8" />
+      <module name="Week1" target="1.8" />
+      <module name="Week2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

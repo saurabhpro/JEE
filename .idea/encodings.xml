@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JMS" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/M101JMongoDBForJavaDevlopers" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/M101JMongoDBForJavaDevlopers/Week1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/M101JMongoDBForJavaDevlopers/Week2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NewWeb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RMI" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServletListners" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Servlets" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SessionTracking" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UploadDownload" charset="UTF-8" />
+  </component>
+</project>
